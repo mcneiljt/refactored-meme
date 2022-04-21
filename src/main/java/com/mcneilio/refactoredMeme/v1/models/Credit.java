@@ -1,4 +1,4 @@
-package com.mcneilio.refactoredMeme.models;
+package com.mcneilio.refactoredMeme.v1.models;
 
 import java.util.ArrayList;
 import java.util.Date;
